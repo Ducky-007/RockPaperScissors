@@ -1,0 +1,14 @@
+/Users/cameron/Desktop/C#/RockPaperScissorsRoot/RockPaperScissors/bin/Debug/net8.0/RockPaperScissors
+/Users/cameron/Desktop/C#/RockPaperScissorsRoot/RockPaperScissors/bin/Debug/net8.0/RockPaperScissors.deps.json
+/Users/cameron/Desktop/C#/RockPaperScissorsRoot/RockPaperScissors/bin/Debug/net8.0/RockPaperScissors.runtimeconfig.json
+/Users/cameron/Desktop/C#/RockPaperScissorsRoot/RockPaperScissors/bin/Debug/net8.0/RockPaperScissors.dll
+/Users/cameron/Desktop/C#/RockPaperScissorsRoot/RockPaperScissors/bin/Debug/net8.0/RockPaperScissors.pdb
+/Users/cameron/Desktop/C#/RockPaperScissorsRoot/RockPaperScissors/obj/Debug/net8.0/RockPaperScissors.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cameron/Desktop/C#/RockPaperScissorsRoot/RockPaperScissors/obj/Debug/net8.0/RockPaperScissors.AssemblyInfoInputs.cache
+/Users/cameron/Desktop/C#/RockPaperScissorsRoot/RockPaperScissors/obj/Debug/net8.0/RockPaperScissors.AssemblyInfo.cs
+/Users/cameron/Desktop/C#/RockPaperScissorsRoot/RockPaperScissors/obj/Debug/net8.0/RockPaperScissors.csproj.CoreCompileInputs.cache
+/Users/cameron/Desktop/C#/RockPaperScissorsRoot/RockPaperScissors/obj/Debug/net8.0/RockPaperScissors.dll
+/Users/cameron/Desktop/C#/RockPaperScissorsRoot/RockPaperScissors/obj/Debug/net8.0/refint/RockPaperScissors.dll
+/Users/cameron/Desktop/C#/RockPaperScissorsRoot/RockPaperScissors/obj/Debug/net8.0/RockPaperScissors.pdb
+/Users/cameron/Desktop/C#/RockPaperScissorsRoot/RockPaperScissors/obj/Debug/net8.0/RockPaperScissors.genruntimeconfig.cache
+/Users/cameron/Desktop/C#/RockPaperScissorsRoot/RockPaperScissors/obj/Debug/net8.0/ref/RockPaperScissors.dll
