@@ -1,7 +1,6 @@
 ﻿// creates app for Rock Paper Scissors game
 using System;
 using System.Collections.Generic;
-using System.Xml;
 
 namespace RockPaperScissors
 {
@@ -135,8 +134,8 @@ namespace RockPaperScissors
             System.Console.WriteLine("Totals:");
             System.Console.WriteLine($"# of total Wins: {userWon}");
             System.Console.WriteLine($"# of total Loses: {userLost}");
-            System.Console.WriteLine($"# of total Draws: {userDraw}");System.Console.WriteLine("Exiting game... Thanks for playing!");
+            System.Console.WriteLine($"# of total Draws: {userDraw}");
+            System.Console.WriteLine("Exiting game... Thanks for playing!");
         }
-        
     }
 }
