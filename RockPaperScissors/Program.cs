@@ -19,14 +19,6 @@ namespace RockPaperScissors
     {
         public void Start()
         {
-            // have user select rock, paper, scissors
-            // compare selection to computer
-            // output if user won, lost or had a draw
-            // iterate count to the user's won, lost or draw's count
-            // ask user if they want to play again
-            // yes: start another game by asking user to pick
-            // no: output goodbye message along with user's stats
-
             // declare variables
             int userWon = 0;
             int userLost = 0;
@@ -128,7 +120,6 @@ namespace RockPaperScissors
                 if (choice != "y")
                 {
                     playAgain = false;
-
                 }
             }
             System.Console.WriteLine("Totals:");
