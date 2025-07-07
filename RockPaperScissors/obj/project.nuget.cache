@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "0LDczfV0GOw=",
+  "dgSpecHash": "NUyYHb0SKw8=",
   "success": true,
-  "projectFilePath": "/Users/cameron/Desktop/C#/RockPaperScissorsRoot/RockPaperScissors/RockPaperScissors.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\CameronDuckett\\Desktop\\Projects\\C#\\RockPaperScissorsRoot\\RockPaperScissors\\RockPaperScissors.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CameronDuckett\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.17\\microsoft.netcore.app.ref.8.0.17.nupkg.sha512",
+    "C:\\Users\\CameronDuckett\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.17\\microsoft.windowsdesktop.app.ref.8.0.17.nupkg.sha512",
+    "C:\\Users\\CameronDuckett\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.17\\microsoft.aspnetcore.app.ref.8.0.17.nupkg.sha512",
+    "C:\\Users\\CameronDuckett\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.17\\microsoft.netcore.app.host.win-x64.8.0.17.nupkg.sha512"
+  ],
   "logs": []
 }
